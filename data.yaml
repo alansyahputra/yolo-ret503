@@ -1,0 +1,8 @@
+path: /content/yolo-ret503/YOLO/YOLO/dataset_v1
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: person
+  1: car
+  2: bottle
