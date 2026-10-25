@@ -1,0 +1,4 @@
+eksperimen,perubahan,pretrained,mAP50,mAP50-95,precision,recall,inferensi_ms,waktu_latih_menit,imgsz,bobot
+E1_pretrained,-,True,0.3578,0.1777,0.4172,0.3494,42.59,18.57,416,/content/yolo-ret503/YOLO/YOLO/hasil_praktik/E1_pretrained/weights/best.pt
+E2_scratch,-,False,0.006,0.0016,0.6759,0.0414,42.25,18.69,416,/content/yolo-ret503/YOLO/YOLO/hasil_praktik/E2_scratch/weights/best.pt
+E3_tuning,imgsz=640,True,0.4574,0.2612,0.635,0.4061,96.27,42.3,640,/content/yolo-ret503/YOLO/YOLO/hasil_praktik/E3_tuning/weights/best.pt
